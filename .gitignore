@@ -1,0 +1,6 @@
+backend/venv
+backend/gfpgan/weights/
+__pycache__/
+*.pyc
+.import/
+.export/
