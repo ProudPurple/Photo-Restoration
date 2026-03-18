@@ -1,5 +1,5 @@
 backend/venv
-backend/gfpgan/weights/
+weights/
 __pycache__/
 *.pyc
 .import/
